@@ -1,12 +1,12 @@
 
-#XKEYBOARD
+XKEYBOARD
 =========
 
 Xkeyboard is a minimal inscreen keyboard that
 will let you control everything on your X11 from 
 touchscreen.
 
-#USAGE
+USAGE
 -----
 
 Make sure your system has any font that will
